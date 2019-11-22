@@ -1,6 +1,6 @@
-ravi
-pavan
-radhika
+read -p "enter a Name"
+read name
+echo "HI $name, Welcome"
 
 
 Today is Thursday
