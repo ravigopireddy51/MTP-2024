@@ -3,10 +3,10 @@ read name
 echo "HI $name,Welcome"
 
   echo "welcome to Hyderabad"
-
+<<<<<<< HEAD
 shankar
 Indian Team
+=======
 
-
-
-
+echo "welcome to Devops Demo"
+>>>>>>> f3
