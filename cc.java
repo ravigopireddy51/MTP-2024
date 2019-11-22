@@ -2,4 +2,4 @@ echo  "enter a name:
 read name
 echo "HI $name,Welcome"
 
-  echo "welcome to Visual Path"
+  echo "welcome to Hyderabadh"
